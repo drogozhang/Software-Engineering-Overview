@@ -1,2 +1,8 @@
 # Software-Engineering-Overview
-The Mind Map of Software Engineering for each chapter
+>- 此repo用于给各位带哥复习
+>- 查看密码: zucc
+
+# Chapter1: Introduction
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/introduction.jpg)
+
