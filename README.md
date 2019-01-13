@@ -18,3 +18,8 @@
 ## Chapter5: Overall Design
 
 ![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/overallDesign.jpg)
+
+## Chapter6: Detailed Design
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/detailedDesign.jpg)
+
