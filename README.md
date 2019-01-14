@@ -31,3 +31,11 @@
 
 ![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/softwareMaintenance.jpg)
 
+## Chapter9: Object Oriented Methodology
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/objectOrientedMethodology.jpg)
+
+## Chapter10: Object Oriented Analysis
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/objectOrientedAnalysis.jpg)
+
