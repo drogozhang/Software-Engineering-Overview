@@ -42,3 +42,13 @@
 ## Chapter11: Object Oriented Design
 
 ![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/objectOrientedDesign.jpg)
+
+
+## Chapter12: Object Oriented Implement
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/objectOrientedImplement.jpg)
+
+## Chapter13: Project Management
+
+![Alt text](https://github.com/zk31601102/Software-Engineering-Overview/raw/master/imgs/projectManagement.jpg)
+
